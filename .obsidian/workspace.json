@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "889fa3d811512a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -110,7 +124,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "ee3cbf19698ca64e",
+  "active": "889fa3d811512a8e",
   "lastOpenFiles": [
     "未命名.md",
     "基本.md",
