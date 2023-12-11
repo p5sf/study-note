@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c447640a95661c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,8 +130,9 @@
       "canvas:新建白板": false
     }
   },
-  "active": "e535a297dcde159c",
+  "active": "c447640a95661c7e",
   "lastOpenFiles": [
+    "未命名.md",
     "基本.md",
     "2023-12-11.md",
     "标题样式.md",

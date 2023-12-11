@@ -7,8 +7,5 @@
   "baseFontSize": 18,
   "nativeMenus": true,
   "showViewHeader": false,
-  "enabledCssSnippets": [
-    "base",
-    "line-heighgt"
-  ]
+  "enabledCssSnippets": []
 }
