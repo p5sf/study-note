@@ -6,5 +6,9 @@
   "monospaceFontFamily": "Consolas",
   "baseFontSize": 18,
   "nativeMenus": true,
-  "showViewHeader": true
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "base",
+    "line-heighgt"
+  ]
 }

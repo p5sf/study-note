@@ -1,3 +1,16 @@
-.markdown-preview-section h1 {
-    color: blue !important;
+.cm-header-1 {
+  font-size: 3em;
+}
+.cm-header-2 {
+  font-size: 1.6em;
+}
+.cm-header-3 {
+  font-size: 1.37em;
+}
+.cm-header-4 {
+  font-size: 1.25em;
+}
+.cm-header-5,
+.cm-header-6 {
+  font-size: 1.12em;
 }
