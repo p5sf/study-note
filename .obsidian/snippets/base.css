@@ -21,3 +21,11 @@
     text-align: center !important;
     color: blueviolet;
   }
+
+
+.HyperMD-header-1,
+.inline-title[data-level='1'],
+.HyperMD-list-line .cm-header-1 {
+  font-size: 1.5em;
+  color: #e99d9d;
+}
