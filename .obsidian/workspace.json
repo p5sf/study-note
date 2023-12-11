@@ -128,9 +128,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "30898f6991e28dac",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -141,10 +149,11 @@
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "df9427fd737c2d38",
+  "active": "30898f6991e28dac",
   "lastOpenFiles": [
     "标题样式.md",
     "2023-12-11.md",
