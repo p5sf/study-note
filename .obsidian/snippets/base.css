@@ -1,4 +1,3 @@
-h1{
-    text-align: center;
-    font-size: 1.7em;
+.markdown-preview-section h1 {
+    color: blue !important;
 }

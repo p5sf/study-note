@@ -24,7 +24,7 @@
                 "file": "基本.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,7 +125,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "ee3cbf19698ca64e",
+  "active": "c2239bdab8eee885",
   "lastOpenFiles": [
     "2023-12-11.md",
     "基本.md",
