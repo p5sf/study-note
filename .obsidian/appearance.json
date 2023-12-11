@@ -5,5 +5,6 @@
   "textFontFamily": "霞鹜文楷,Consolas",
   "monospaceFontFamily": "Consolas",
   "baseFontSize": 18,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showViewHeader": true
 }
