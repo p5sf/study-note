@@ -2,16 +2,13 @@
   "file-explorer",
   "global-search",
   "switcher",
-  "backlink",
   "canvas",
-  "outgoing-link",
   "tag-pane",
   "daily-notes",
   "command-palette",
   "slash-command",
   "editor-status",
-  "bookmarks",
-  "markdown-importer",
   "outline",
+  "file-recovery",
   "sync"
 ]

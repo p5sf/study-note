@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "601173eac4c29109",
+        "id": "d8ba7a89b7317b57",
         "type": "tabs",
         "children": [
           {
-            "id": "df9427fd737c2d38",
+            "id": "e535a297dcde159c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2023-12-11.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -56,14 +57,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f14d12d596940207",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -79,23 +72,6 @@
         "id": "d7245282b22d0364",
         "type": "tabs",
         "children": [
-          {
-            "id": "df299c7d849144a7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2023-12-11.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "08bd6bfd662bbb8f",
             "type": "leaf",
@@ -118,18 +94,6 @@
             }
           },
           {
-            "id": "a4f3ab8200bf2495",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2023-12-11.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "30898f6991e28dac",
             "type": "leaf",
             "state": {
@@ -137,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,16 +110,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "canvas:新建白板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "30898f6991e28dac",
+  "active": "e535a297dcde159c",
   "lastOpenFiles": [
-    "标题样式.md",
     "2023-12-11.md",
+    "标题样式.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名 1.canvas",
     "未命名.canvas",
     "java"
   ]
