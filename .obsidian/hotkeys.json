@@ -97,5 +97,15 @@
       ],
       "key": "I"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }
