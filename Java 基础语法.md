@@ -110,7 +110,7 @@ public final int a = 12 ;
   - 类与类：只能单继承，可以多重继承。
   - 类与接口：实现关系。类可以多实现接口。
   - 接口与接口： 是继承关系。接口可以多继承接口。
-**接口和抽象方法的区别**
+  **接口和抽象方法的区别**
 - 一个类只能继承一个抽象类，而一个类却可以实现多个接口。
 - 接口的设计目的，是对类的行为进行约束；而抽象类的设计目的，是为了代码复用。
 - 抽象类只能被单继承 ，接口可以多实现,接口的出现避免了多继承的局限性。
@@ -145,9 +145,7 @@ https://blog.csdn.net/hellojoy/article/details/79883671
 
 分类：**成员内部类、局部内部类、匿名内部类和静态内部类**。
 静态内部类
-
-定义在类内部的静态类，就是静态内部类。
-
+>定义在类内部的静态类，就是静态内部类。
 ```java
 public class Outer {
     private static int radius = 1;
@@ -165,11 +163,8 @@ public class Outer {
 Outer.StaticInner inner = new Outer.StaticInner();
 inner.visit();
 ```
-
-##### **成员内部类**
-
-定义在类内部，成员位置上的非静态类，就是成员内部类。
-
+成员内部类
+>定义在类内部，成员位置上的非静态类，就是成员内部类。
 ```java
 public class Outer {
     private static  int radius = 1;
@@ -185,16 +180,16 @@ public class Outer {
 ```
 
 成员内部类可以访问外部类所有的变量和方法，包括静态和非静态，私有和公有。成员内部类依赖于外部类的实例，外部类实例.new 内部类()
-
 非静态内部类不能有静态成员变量和静态代码块和静态方法，
-
 ```java
 Outer outer = new Outer();
 Outer.Inner inner = outer.new Inner();
 inner.visit();
 ```
 
-##### **局部内部类**
+
+
+##### 局部内部类
 
 定义在方法中的内部类，就是局部内部类。
 
