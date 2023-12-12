@@ -77,41 +77,17 @@ public final int a = 12 ;
 - 小数类型：Float,Double
 - 字符型：char
 - 布尔型：boolean
+> [!hint] 备注
+> Java基本数据类型没有String类型，所有整型都是有符号数，没有unsigned（无符号）类型。基本数据类型的大小是固定的，与平台是32位还是64位无关
 
-
-**备注**：Java类型不包括String类型，所有整型都是有符号数，没有unsigned（无符号）关键字。char是两个字节的，范围是0～65535，存的是Unicode编码。short是两个字节，int是四个字节，long是八个字节，类型大小是固定的，与平台无关。
-
-基本类型都有对应的包装类。int->Integer称为装包，Integer->int称为拆包。而且会自动装包和自动拆包，是由编译器支持的，会自动插入指令，虚拟机不知。前六个基本类型的包装类都继承自Number。⭐
-
- **类型转换**
-
-分类（范围）
-
-- 隐式类型转换（小转大）：byte，short，char—>int—>long—>float—>double
-
-- 强制类型转换（大转小）：精度下降 
-
-
+**类型转换**
+隐式类型转换（小转大）：byte，short，char—>int—>long—>float—>double
+强制类型转换（大转小）：精度下降 
 **引用数据类型**
-
 - 类Class
-
 - 接口Interface
-
 - 数组Array
-
-
-**数组**
-
-概念：用于存储同一类型数据的一个容器。数组既可以存储基本数据类型，也可以存储引用数据类型
-
-```java
-String name[] = {"ali", "ben"};
-String [] name = new String[10]; ==>name[0]="ali" namep[1]="ben"
-String [] s = new String[]{"ali","ben"};
-```
-
-## 二、面向对象
+面向对象
 
 ### 三大特性
 
