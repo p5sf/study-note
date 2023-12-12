@@ -19,8 +19,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e42f045b388e6c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maven 基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4754ddc2a2c524b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码优化36例.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ecf8f423a41e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发规范.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -39,7 +79,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -78,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java 基础语法.md"
+                "file": "开发规范.md"
               }
             }
           },
@@ -116,8 +156,11 @@
       "canvas:新建白板": false
     }
   },
-  "active": "ee3cbf19698ca64e",
+  "active": "56ecf8f423a41e4e",
   "lastOpenFiles": [
+    "代码优化36例.md",
+    "开发规范.md",
+    "Maven 基础.md",
     "Java 基础语法.md",
     "基本.md",
     "2023-12-11.md",
