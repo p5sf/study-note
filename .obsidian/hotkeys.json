@@ -71,15 +71,6 @@
       "key": "O"
     }
   ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "K"
-    }
-  ],
   "editor:cycle-list-checklist": [
     {
       "modifiers": [
@@ -87,6 +78,24 @@
         "Shift"
       ],
       "key": "X"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
     }
   ]
 }

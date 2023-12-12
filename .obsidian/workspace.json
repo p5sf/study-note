@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ba7a89b7317b57",
+        "id": "e3975be768c3422d",
         "type": "tabs",
         "children": [
           {
-            "id": "e42f045b388e6c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maven 基础.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4754ddc2a2c524b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码优化36例.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56ecf8f423a41e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发规范.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e3e6378665482a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git 基本使用.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5278c11762e0758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL 基础.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ba17f945ef164d9",
+            "id": "b72384d62da4d64f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Java 基础语法.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +115,10 @@
       "canvas:新建白板": false
     }
   },
-  "active": "2ba17f945ef164d9",
+  "active": "b72384d62da4d64f",
   "lastOpenFiles": [
+    "Java 基础语法.md",
     "2022-06-01.md",
-    "Java 基础语法.md",
-    "Java 基础语法.md",
     "MySQL 基础.md",
     "Redis 基础.md",
     "Git 基本使用.md",
