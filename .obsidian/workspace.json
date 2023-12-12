@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis 基础.md",
+                "file": "2023-12-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis 基础.md"
+                "file": "2023-12-12.md"
               }
             }
           },
@@ -117,21 +117,21 @@
   },
   "active": "b72384d62da4d64f",
   "lastOpenFiles": [
-    "Java 基础语法.md",
+    "未命名.canvas",
     "2023-12-12.md",
-    "2022-06-01.md",
+    "Java 基础语法.md",
     "MySQL 基础.md",
-    "Redis 基础.md",
-    "Git 基本使用.md",
     "开发规范.md",
     "代码优化36例.md",
     "Maven 基础.md",
+    "Redis 基础.md",
+    "2022-06-01.md",
+    "Git 基本使用.md",
     "基本.md",
     "2023-12-11.md",
     "标题样式.md",
     "未命名 1.md",
     "未命名 1.canvas",
-    "未命名.canvas",
     "java"
   ]
 }
