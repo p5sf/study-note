@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "889fa3d811512a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java 基础语法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e42f045b388e6c5c",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +181,17 @@
       "canvas:新建白板": false
     }
   },
-  "active": "2ba17f945ef164d9",
+  "active": "ee3cbf19698ca64e",
   "lastOpenFiles": [
-    "Redis 基础.md",
+    "2022-06-01.md",
+    "Java 基础语法.md",
+    "Java 基础语法.md",
     "MySQL 基础.md",
+    "Redis 基础.md",
     "Git 基本使用.md",
     "开发规范.md",
     "代码优化36例.md",
     "Maven 基础.md",
-    "Java 基础语法.md",
     "基本.md",
     "2023-12-11.md",
     "标题样式.md",
