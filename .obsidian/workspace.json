@@ -79,7 +79,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java 基础语法.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -181,7 +181,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "ee3cbf19698ca64e",
+  "active": "2ba17f945ef164d9",
   "lastOpenFiles": [
     "2022-06-01.md",
     "Java 基础语法.md",
