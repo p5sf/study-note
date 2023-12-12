@@ -189,7 +189,7 @@ inner.visit();
 
 
 
-##### 局部内部类
+局部内部类
 
 定义在方法中的内部类，就是局部内部类。
 
@@ -234,7 +234,7 @@ public static void testStaticFunctionClass(){
 }
 ```
 
-##### **匿名内部类**
+匿名内部类
 
 匿名内部类就是没有名字的内部类，常在对方法只调用一次时使用。
 
@@ -280,7 +280,7 @@ new 类/接口{
 - 内部类有效实现了“多重继承”，优化 java 单继承的缺陷。
 - 匿名内部类可以很方便的定义回调。
 
-#### **内部类的应用场景**
+内部类的应用场景
 
 - 一些多算法场合
 - 解决一些非面向对象的语句块。
@@ -332,7 +332,7 @@ public class Outer {
 外部类变量：12
 ```
 
-### 方法
+#### 方法
 
 > 作用：提高使用复用性，有时称为函数。
 
@@ -365,13 +365,13 @@ public class Outer {
 3. 访问修饰符的限制一定要大于被重写方法的访问修饰符（public>protected>default>private）
 4. 重写方法一定不能抛出新的检查异常或者比被重写方法申明更加宽泛的检查型异常
 
-#### 抽象方法
+抽象方法
 
-#### 静态方法
+静态方法
 
 在外部调用静态方法时，可以使用"类名.方法名"的方式，也可以使用"对象名.方法名"的方式。而实例方法只有后面这种方式。调用静态方法可以无需创建对象。静态方法在访问本类的成员时，只允许访问静态成员（即静态成员变量和静态方法），而不允许访问实例成员变量和实例方法。
 
-### 泛型
+#### 泛型
 
 引入泛型的意义：
 
@@ -413,8 +413,7 @@ class Info<T extends Number>{    // 此处泛型只能是数字类型
 <? super E> super 关键字声明了类型的下界，表示参数化的类型可能是指定的类型，或者是此类型的父类
 fun(Info<? super String> temp){    // 只能接收String或Object类型的泛型，String类的父类只有Object类
 
-// 使用原则《Effictive Java》
-// 为了获得最大限度的灵活性，要在表示 生产者或者消费者 的输入参数上使用通配符，使用的规则就是：生产者有上限、消费者有下限
+// 使用规则：生产者有上限、消费者有下限
 1. 如果参数化类型表示一个 T 的生产者，使用 < ? extends T>;
 2. 如果它表示一个 T 的消费者，就使用 < ? super T>；
 3. 如果既是生产又是消费，那使用通配符就没什么意义了，因为你需要的是精确的参数类型。
@@ -425,11 +424,8 @@ fun(Info<? super String> temp){    // 只能接收String或Object类型的泛型
 ```java
 List<String>[] list11 = new ArrayList<String>[10]; //编译错误，非法创建 
 List<String>[] list12 = new ArrayList<?>[10]; //编译错误，需要强转类型 
-List<String>[] list13 = (List<String>[]) new ArrayList<?>[10]; //OK，但是会有警告 
+List<String>[] list13 = (List<String>[]) new ArrayList<?>[10]; //OK，但有警告 
 List<?>[] list14 = new ArrayList<String>[10]; //编译错误，非法创建 
 List<?>[] list15 = new ArrayList<?>[10]; //OK 
-List<String>[] list6 = new ArrayList[10]; //OK，但是会有警告
+List<String>[] list6 = new ArrayList[10]; //OK，但有警告
 ```
-
-
-
