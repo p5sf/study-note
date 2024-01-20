@@ -10,5 +10,6 @@
   "enabledCssSnippets": [
     "base"
   ],
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "translucency": true
 }
