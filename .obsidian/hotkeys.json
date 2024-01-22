@@ -89,15 +89,6 @@
       "key": "E"
     }
   ],
-  "obsidian-admonition:insert-callout": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "editor:delete-paragraph": [],
   "theme:use-light": [
     {
