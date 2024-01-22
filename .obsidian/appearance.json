@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "deeper work",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "霞鹜文楷",
   "textFontFamily": "霞鹜文楷,Consolas",
   "monospaceFontFamily": "Consolas",
@@ -11,5 +11,6 @@
     "base"
   ],
   "baseFontSizeAction": false,
-  "translucency": true
+  "translucency": true,
+  "theme": "obsidian"
 }
