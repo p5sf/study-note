@@ -1,15 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "deeper work",
   "interfaceFontFamily": "霞鹜文楷",
   "textFontFamily": "霞鹜文楷,Consolas",
   "monospaceFontFamily": "Consolas",
   "baseFontSize": 18,
   "nativeMenus": true,
   "showViewHeader": false,
-  "enabledCssSnippets": [
-    "base"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSizeAction": false,
   "translucency": true,
   "theme": "obsidian"
