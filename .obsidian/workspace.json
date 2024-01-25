@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-18.md",
+                "file": "年度计划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5198ea4f6957be44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-18.md"
+                "file": "2023-12-25.md"
               }
             }
           }
@@ -117,16 +131,16 @@
       "canvas:新建白板": false
     }
   },
-  "active": "527758927badf1b6",
+  "active": "5198ea4f6957be44",
   "lastOpenFiles": [
+    "2023-12-12.md",
+    "今日复盘.md",
+    "年度计划.md",
     "娱乐笔记/扑克的玩法.md",
     "未命名.canvas",
-    "2023-12-12.md",
     "娱乐笔记",
     "2023-12-25.md",
-    "2024-01-18.md",
     "未命名/未命名",
-    "未命名.md",
     "().md",
     "Java 基础语法.md",
     "MySQL 基础.md",
