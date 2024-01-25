@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "abb9ac4c2aa4c43b",
@@ -117,7 +118,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "527758927badf1b6",
+  "active": "ee3cbf19698ca64e",
   "lastOpenFiles": [
     "2023-12-12.md",
     "娱乐笔记/扑克的玩法.md",
