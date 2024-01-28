@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年度计划.md",
+                "file": "今日总结.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bed982ed539f18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "今日复盘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "年度计划.md"
+                "file": "今日复盘.md"
               }
             }
           }
@@ -131,12 +144,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5198ea4f6957be44",
+  "active": "8bed982ed539f18d",
   "lastOpenFiles": [
+    "年度计划.md",
     "今日总结.md",
+    "今日复盘.md",
     "编程学习.md",
     "2023-12-12.md",
-    "年度计划.md",
     "娱乐笔记/扑克的玩法.md",
     "未命名.canvas",
     "娱乐笔记",
