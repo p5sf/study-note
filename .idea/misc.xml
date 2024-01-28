@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="GiteeDefaultAccount">
-    <option name="defaultAccountId" value="5ef731f1-7b86-4060-9b7d-88deb52cdfa5" />
-  </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
-</project>
