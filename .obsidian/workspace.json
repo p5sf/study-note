@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-12.md",
+                "file": "今日复盘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "今日复盘.md"
+              }
             }
           },
           {
@@ -106,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "今日复盘.md"
+              }
             }
           },
           {
@@ -135,11 +138,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4258057d8012d741",
+  "active": "210305698fed6aa9",
   "lastOpenFiles": [
-    "2023-12-12.md",
-    "今日复盘.md",
     "今日总结.md",
+    "2023-12-12.md",
+    "2024-01-29.md",
+    "今日复盘.md",
     "年度计划.md",
     "未命名.canvas",
     "编程学习.md",
