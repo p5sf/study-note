@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4e261fde88b2ff45",
+        "id": "d3714f8e88e2e70d",
         "type": "tabs",
         "children": [
           {
-            "id": "5198ea4f6957be44",
+            "id": "210305698fed6aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年度计划.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a477ea3811140e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "今日复盘.md",
+                "file": "2023-12-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,8 +42,24 @@
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
+          },
+          {
+            "id": "4258057d8012d741",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,13 +98,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e9a8ce672cd472",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fc9e3814b26ba99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "今日复盘.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -116,11 +135,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6a477ea3811140e7",
+  "active": "4258057d8012d741",
   "lastOpenFiles": [
-    "今日总结.md",
-    "今日复盘.md",
     "2023-12-12.md",
+    "今日复盘.md",
+    "今日总结.md",
     "年度计划.md",
     "未命名.canvas",
     "编程学习.md",
