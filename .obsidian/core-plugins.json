@@ -3,11 +3,11 @@
   "global-search",
   "switcher",
   "canvas",
-  "tag-pane",
+  "properties",
   "daily-notes",
   "command-palette",
   "slash-command",
-  "editor-status",
+  "markdown-importer",
   "outline",
   "file-recovery"
 ]
