@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年度计划.md",
+                "file": "今日复盘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "今日复盘.md"
+              }
             }
           },
           {
@@ -114,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "今日复盘.md"
+              }
             }
           },
           {
@@ -143,7 +146,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3e4185e0b3d80e97",
+  "active": "210305698fed6aa9",
   "lastOpenFiles": [
     "年度计划.md",
     "娱乐笔记/发家致富.md",
