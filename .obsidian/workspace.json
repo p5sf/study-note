@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e4185e0b3d80e97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "年度计划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "年度计划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,10 +143,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "210305698fed6aa9",
+  "active": "3e4185e0b3d80e97",
   "lastOpenFiles": [
-    "娱乐笔记/发家致富.md",
     "年度计划.md",
+    "娱乐笔记/发家致富.md",
     "今日总结.md",
     "娱乐笔记/扑克的玩法.md",
     "今日复盘.md",
