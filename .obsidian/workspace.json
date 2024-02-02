@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习.md",
+                "file": "今日复盘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程学习.md"
+                "file": "今日复盘.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程学习.md"
+                "file": "今日复盘.md"
               }
             }
           },
@@ -141,6 +141,7 @@
   "active": "1e7445dcd49e24c4",
   "lastOpenFiles": [
     "年度计划.md",
+    "编程学习.md",
     "娱乐笔记/扑克的玩法.md",
     "今日复盘.md",
     "今日总结.md",
@@ -150,7 +151,6 @@
     "2023-12-12.md",
     "2024-01-29.md",
     "未命名.canvas",
-    "编程学习.md",
     "娱乐笔记",
     "未命名/未命名",
     "().md",
