@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年度计划.md",
+                "file": "娱乐笔记/扑克的玩法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "年度计划.md"
+                "file": "娱乐笔记/扑克的玩法.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "年度计划.md"
+                "file": "娱乐笔记/扑克的玩法.md"
               }
             }
           },
@@ -140,9 +140,9 @@
   },
   "active": "1e7445dcd49e24c4",
   "lastOpenFiles": [
+    "年度计划.md",
     "今日复盘.md",
     "今日总结.md",
-    "年度计划.md",
     "娱乐笔记/家居装修.md",
     "未命名",
     "娱乐笔记/发家致富.md",
