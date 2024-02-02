@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今日复盘.md",
+                "file": "年度计划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "今日复盘.md"
+                "file": "年度计划.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "今日复盘.md"
+                "file": "年度计划.md"
               }
             }
           },
@@ -162,8 +162,8 @@
   },
   "active": "410bdcae3a55e740",
   "lastOpenFiles": [
-    "娱乐笔记/家居装修.md",
     "今日复盘.md",
+    "娱乐笔记/家居装修.md",
     "未命名",
     "年度计划.md",
     "娱乐笔记/发家致富.md",
