@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "娱乐笔记/话术.md",
+                "file": "今日复盘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "娱乐笔记/话术.md"
+                "file": "今日复盘.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "娱乐笔记/话术.md"
+                "file": "今日复盘.md"
               }
             }
           },
@@ -140,8 +140,8 @@
   },
   "active": "1e7445dcd49e24c4",
   "lastOpenFiles": [
-    "今日复盘.md",
     "娱乐笔记/话术.md",
+    "今日复盘.md",
     "年度计划.md",
     "编程学习.md",
     "娱乐笔记/扑克的玩法.md",
